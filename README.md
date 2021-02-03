@@ -1,5 +1,6 @@
-## Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ,  I'm [Venkat](http://www.venkat13.ml) 
+## Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ,  I'm Venkat.
 
+<!-- [Venkat](http://www.venkat13.ml) can add this to the end to link my website -->
 ## I'm a Self taught developer !!
 
 - 🌱 I’m currently learning JavaScript 
@@ -8,6 +9,7 @@
 - 💖 Logophile 
 - 👬 I like teaching to my friends. ( You can reach me out 🚀)
   
+<!--  adding the languages known -->
 ## Languages and Tools  I use:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -28,9 +30,13 @@
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
 ---
+<!--  adding my current spotify song -->
+<!-- 
+### Spotify Playing 🎧 -->
+
+
+
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/g-venkat/">
@@ -42,4 +48,7 @@
 </a>
 
 </br>
+
+<!-- https://github.com/anuraghazra/github-readme-stats : to add the stats to github -->
+<img align="left" alt="venkat's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=srivenkat13&show_icons=true&hide_border=true&theme=tokyonight&hide=prs,issues" />
 
