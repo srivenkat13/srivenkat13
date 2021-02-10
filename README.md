@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning JavaScript 
 - 🥅 2021 Goals: Contribute more to Open Source projects and master Javascript (Is it even Possible 😅)
-- 📚 Reading books is my favorite habit.
+- 📚 Reading books is my favorite hobby .
 - 💖 Logophile 
 - 👬 I like teaching to my friends. ( You can reach me out 🚀)
   
