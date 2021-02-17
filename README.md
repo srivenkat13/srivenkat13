@@ -41,7 +41,7 @@
 
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/g-venkat/">
+<a href="https://www.linkedin.com/in/sri-venkat13/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
  
