@@ -1,10 +1,10 @@
-## Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ,  I'm Venkat.
+# <center>  Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ,  I'm Venkat. </center>
 
 <!-- [Venkat](http://www.venkat13.ml) can add this to the end to link my website -->
-## I'm a Self taught developer !!
+## <center>  I'm a Self taught developer !! </center>
 
 - 🌱 I’m currently learning JavaScript 
-- 🥅 2021 Goals: Contribute more to Open Source projects and master Javascript (Is it even Possible 😅)
+
 - 📚 Reading books is my favorite hobby .
 - 💖 Logophile 
 - 👬 I like teaching to my friends. ( You can reach me out 🚀)
@@ -58,5 +58,5 @@
 
 
 <!-- https://github.com/anuraghazra/github-readme-stats : to add the stats to github -->
-<img align="left" alt="venkat's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=srivenkat13&show_icons=true&hide_border=true&theme=tokyonight&hide=prs,issues" />
+<!-- <img align="left" alt="venkat's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=srivenkat13&show_icons=true&hide_border=true&theme=tokyonight&hide=prs,issues" /> -->
 
