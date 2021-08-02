@@ -1,7 +1,7 @@
-# <center>  Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ,  I'm Venkat. </center>
+# <p align = "center">  Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ,  I'm Venkat. </p>
 
 <!-- [Venkat](http://www.venkat13.ml) can add this to the end to link my website -->
-## <center>  I'm a Self taught developer !! </center>
+## <p align = "center">  I'm a Self taught developer !! </p>
 
 - 🌱 I’m currently learning JavaScript 
 
