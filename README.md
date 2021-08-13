@@ -6,6 +6,7 @@
 <p align= "center"><img  src="./assets/yay-hooray-doraemon.gif" alt  = "excited-doraemon" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srivenkat13&label=Profile%20views&color=orange&style=flat-square" alt="srivenkat13" /> </p>
+---
 - 🌱 I’m currently learning JavaScript 
 
 - 📚 Reading books is my favorite hobby .
