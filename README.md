@@ -3,10 +3,9 @@
 <!-- [Venkat](http://www.venkat13.ml) can add this to the end to link my website -->
 ## <p align = "center">  I'm a Self taught developer !! </p>
 
-<img align="center" src="./assets/yay-hooray-doraemon.gif"  />
+<p align= "center"><img  src="./assets/yay-hooray-doraemon.gif" alt  = "excited-doraemon" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srivenkat13&label=Profile%20views&color=orange&style=flat-square" alt="srivenkat13" /> </p>
-
 - 🌱 I’m currently learning JavaScript 
 
 - 📚 Reading books is my favorite hobby .
@@ -46,7 +45,7 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srivenkat13&show_icons=true&theme=onedark&locale=en" alt="srivenkat13" /></p>
 </details>
 
-## ✌  Connect with me on:
+## ✌  You can reach me on:
 <p align="left">
 <a href="https://twitter.com/srivenkat_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srivenkat_13" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sri-venkat13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sri-venkat13" height="30" width="40" /></a>
