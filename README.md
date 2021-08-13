@@ -3,6 +3,10 @@
 <!-- [Venkat](http://www.venkat13.ml) can add this to the end to link my website -->
 ## <p align = "center">  I'm a Self taught developer !! </p>
 
+<img align="center" src="./assets/yay-hooray-doraemon.gif"  />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srivenkat13&label=Profile%20views&color=orange&style=flat-square" alt="srivenkat13" /> </p>
+
 - 🌱 I’m currently learning JavaScript 
 
 - 📚 Reading books is my favorite hobby .
@@ -23,40 +27,33 @@
 - VCS &nbsp;
   ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-0A1A2F?style=flat&logo=markdown)
+  
 - IDEs and Others &nbsp;
     ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Vim](https://img.shields.io/badge/-Vim-0A1A2F?style=flat&logo=vim&logoColor=007ACC)
   ![Chrome](https://img.shields.io/badge/-Chrome%20Dev%20Tools-0A1A2F?style=flat)  
   ![Terminal](https://img.shields.io/badge/-Terminal-0A1A2F?style=flat&logo=linux&logoColor=007ACC)
-<!-- <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> -->
-<!-- <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> -->
-<!-- <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>  -->
-<!-- <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> -->
-<!-- <img align="left" alt="cpp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /> -->
-<!-- <img align="left" alt="chromedevtools" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png" /> -->
-<!-- <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> -->
-<!-- <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> -->
-<!-- <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> -->
-<!-- <img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" /> -->
-</br>
-<!--  adding my current spotify song -->
-<!-- ### Spotify Playing 🎧 -->
+  ![Markdown](https://img.shields.io/badge/-Markdown-0A1A2F?style=flat&logo=markdown)
+
+
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srivenkat13&" alt="srivenkat13" /></p>
+<details>
+ <summary> QUICK STATS: </summary>
+<p>&nbsp;</p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srivenkat13&show_icons=true&theme=onedark&locale=en&layout=compact" alt="srivenkat13" /></p>
+
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srivenkat13&show_icons=true&theme=onedark&locale=en" alt="srivenkat13" /></p>
+</details>
 
 ## ✌  Connect with me on:
-<a href="https://www.linkedin.com/in/sri-venkat13/"> LinkedIn
-  <!-- <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  /> -->
-</a>
+<p align="left">
+<a href="https://twitter.com/srivenkat_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srivenkat_13" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sri-venkat13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sri-venkat13" height="30" width="40" /></a>
+</p>
+
+
+<p align="left"> <a href="https://twitter.com/srivenkat_13" target="blank"><img src="https://img.shields.io/twitter/follow/srivenkat_13?logo=twitter&style=for-the-badge" alt="srivenkat_13" /></a> </p>
  
-<!-- <a href="mailto:srivenkatsairaj13@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a> -->
-
-</br>
-
 ---
-
-
-<!-- https://github.com/anuraghazra/github-readme-stats : to add the stats to github -->
-<!-- <img align="left" alt="venkat's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=srivenkat13&show_icons=true&hide_border=true&theme=tokyonight&hide=prs,issues" /> -->
 
