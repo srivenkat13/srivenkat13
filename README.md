@@ -8,9 +8,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srivenkat13&label=Profile%20views&color=orange&style=flat-square" alt="srivenkat13" /> </p>
 
 <p>&nbsp;</p>
-- 🌱 I’m currently learning JavaScript 
 
-- 📚 Reading books is my favorite hobby .
+- 🌱 Setting my roots in **The Web Trio** ( HTML , CSS & JavaScript ).
+- 📚 You will probably find me reading if I'm not coding .
 - 💖 Logophile 
 - 👬 I like teaching to my friends. ( You can reach me out 🚀)
   
