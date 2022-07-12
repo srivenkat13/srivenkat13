@@ -1,4 +1,4 @@
-# <p align = "center">  Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px" height="30px" > ,  I'm Venkat. </p>
+# <p align = "center">  Hey there <img src="./assets/Hi.gif" height="30px" > ,  I'm Venkat. </p>
 
 <!-- [Venkat](http://www.venkat13.ml) can add this to the end to link my website -->
 ## <p align = "center">  I'm a Self taught developer !! </p>
