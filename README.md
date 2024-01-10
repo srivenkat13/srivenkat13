@@ -3,7 +3,7 @@
 <!-- [Venkat](http://www.venkat13.ml) can add this to the end to link my website -->
 ## <p align = "center">  I'm a Self taught developer !! </p>
 
-<p align= "center"><img  src="./assets/yay-hooray-doraemon.gif" alt  = "excited-doraemon" /></p>
+<!-- <p align= "center"><img  src="./assets/yay-hooray-doraemon.gif" alt  = "excited-doraemon" /></p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srivenkat13&label=Profile%20views&color=orange&style=flat-square" alt="srivenkat13" /> </p>
 
