@@ -42,9 +42,9 @@
 <details>
  <summary> QUICK STATS: </summary>
 <p>&nbsp;</p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srivenkat13&show_icons=true&theme=onedark&locale=en&layout=wide" alt="srivenkat13" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srivenkat13&show_icons=true&theme=tokyonight&locale=en" alt="srivenkat13" /></p>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srivenkat13&show_icons=true&theme=onedark&locale=en" alt="srivenkat13" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srivenkat13&show_icons=true&theme=tokyonight&locale=en&bg_color=00000000" alt="srivenkat13" /></p>
 </details>
 
 ## ✌  You can reach me on:
