@@ -5,15 +5,18 @@
 
 Im Venkat, Currently working as Frontend Developer @TCS.
 
-Experienced in React and other JavaScript based frontend libraries, with a passion for creating dynamic and responsive web applications. Over the past 3 years, I have honed my skills in front-end development, specializing in React and its ecosystem. Along with UI developement I have experience in handling Unit testing and Deployment. I like to  solve complex problems and am eager to learn and implement the latest technologies.
+Frontend Developer, experienced in React and other JavaScript based frontend libraries.
+
+<!-- Experienced in React and other JavaScript based frontend libraries, with a passion for creating dynamic and responsive web applications. Over the past 3 years, I have honed my skills in front-end development, specializing in React and its ecosystem. Along with UI developement I have experience in handling Unit testing and Deployment. I like to  solve complex problems and am eager to learn and implement the latest technologies. -->
 
 <!-- <p align= "center"><img  src="./assets/yay-hooray-doraemon.gif" alt  = "excited-doraemon" /></p> -->
 
 ### Projects 
 Few of projects I made in my free time
-1. [Atoms](https://github.com/srivenkat13/atoms) A PWA built in plain JS which Fetches quotes Weekly & generates Quotes daily [read more...](https://github.com/srivenkat13/atoms) ( My Favorite 💖 )
+1. [Atoms](https://srivenkat13.github.io/atoms/) A PWA built in plain JS which Fetches quotes Weekly & generates Quotes daily [read more...](https://github.com/srivenkat13/atoms) ( My Favorite 💖 )
 2. [GitHub Calendar Component](https://www.npmjs.com/package/github-calendar-component) Npm package, with a reusable react component [read more...](https://github.com/srivenkat13/github-calendar-component)
 3. [Dboard](https://dboard-draw.vercel.app/) A Drawing canvas with realtime sharing, built with NextJS and Socket.io [read more...](https://github.com/srivenkat13/dboard/)
+4. [Workout Buddy](https://workout-buddy-sv.vercel.app) A full-stack application with authentication  [read more...](https://github.com/srivenkat13/workout-buddy-app)
   
 <!--  adding the languages known -->
 <!-- from : https://github.com/Ileriayo/markdown-badges#-languages -->
