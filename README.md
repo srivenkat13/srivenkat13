@@ -65,7 +65,9 @@ Few of projects I made in my free time
 <details>
  <summary> QUICK STATS: </summary>
 <p>&nbsp;</p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srivenkat13&" alt="srivenkat13" /></p>
+<!--   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srivenkat13&" alt="srivenkat13" /></p> -->
+  <p><img align="center" src="https://streak-stats.demolab.com?user=srivenkat13&theme=rising-sun&border_radius=20" alt="srivenkat13" /></p>
+<!--   [GitHub Streak](https://streak-stats.demolab.com?user=srivenkat13&theme=rising-sun&border_radius=20)](https://git.io/streak-stats) -->
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srivenkat13&show_icons=true&theme=tokyonight&locale=en" alt="srivenkat13" /></p>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srivenkat13&show_icons=true&theme=tokyonight&locale=en&bg_color=00000000" alt="srivenkat13" /></p>
