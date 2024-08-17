@@ -16,7 +16,8 @@ Few of projects I made in my free time
 1. [Atoms](https://srivenkat13.github.io/atoms/) A PWA built in plain JS which Fetches quotes Weekly & generates Quotes daily [read more...](https://github.com/srivenkat13/atoms) ( My Favorite 💖 )
 2. [GitHub Calendar Component](https://www.npmjs.com/package/github-calendar-component) Npm package, with a reusable react component [read more...](https://github.com/srivenkat13/github-calendar-component)
 3. [Dboard](https://dboard-draw.vercel.app/) A Drawing canvas with realtime sharing, built with NextJS and Socket.io [read more...](https://github.com/srivenkat13/dboard/)
-4. [Workout Buddy](https://workout-buddy-sv.vercel.app) A full-stack application with JWT authentication, used to track workouts [read more...](https://github.com/srivenkat13/workout-buddy-app)
+4. [Kanban](https://srivenkat13.github.io/kanban-board-dnd/) A Kanban board built with React and @dnd-kit for drag-and-drop functionality [read more...](https://github.com/srivenkat13/kanban-board-dnd)
+5. [Workout Buddy](https://workout-buddy-sv.vercel.app) A full-stack application with JWT authentication, used to track workouts [read more...](https://github.com/srivenkat13/workout-buddy-app)
 
 * I make few mini projects and components too [codesandbox](https://codesandbox.io/u/srivenkat13)
   
