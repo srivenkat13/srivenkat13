@@ -74,6 +74,9 @@ Few of projects I made in my free time
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srivenkat13&show_icons=true&theme=tokyonight&locale=en&bg_color=00000000" alt="srivenkat13" /></p>
 </details>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 #### You can reach me on:
 <p align="left">
 <a href="https://twitter.com/srivenkat_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srivenkat_13" height="20" width="30" /></a>
